@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-left: 67px;
+}
+
+#headerh {
+    text-align: center;
+    font-size: 72px;
+}
+
+#mainheader {
+    margin: 0 auto;
+    width: 1220px;
+    height: 64px;
+    top: 187px;
+    left: 294px;
+    margin-top: 40px;
+
+}
+
+#mainheader p {
+    color: #FF8000;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+#firstdiv {
+    width: 696px;
+}
+
+#firstdiv h2 {
+    color: #D9AE00;
+    font-size: 40px;
+}
+
+#firstdiv p {
+    color: #6D81B4;
+    font-size: 24px;
+    margin-top: 24px;
+}
+
+#firstimg {
+    margin-top: 30px;
+    height: 415px;
+    max-width: 696px;
+
+}
+
+#blachholediv {
+    width: 879px;
+    padding: 64px;
+    align-items: center;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    background: #FFCEBE;
+    margin-top: 50px;
+}
+
+#blackholediv h1 {
+    color: #F44E50;
+    font-size: 40px;
+    padding: 64px;
+
+}
+
+#blackhead {
+    text-align: center;
+    color: #F44E50;
+    font-size: 40px;
+}
+
+#blacktitle {
+    color: #8B2B2C;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 24px;
+}
+
+#blachholeimg {
+    width: 100%;
+    height: 415px;
+    margin-top: 30px;
+}
+
+#stringdiv {
+    max-width: 696px;
+    margin-top: 50px;
+}
+
+#stringtitle {
+    color: #4716E4;
+    text-align: right;
+    font-size: 40px;
+
+}
+
+#divpink {
+    border: 3px solid #FF5DA3;
+    background: #FFC1E3;
+    width: 696px;
+    height: 222px;
+    margin-top: 30px;
+}
+
+#divpink p {
+    color: #616161;
+    text-align: right;
+    font-size: 24px;
+    padding: 24px;
+}
+#blacktheory {
+     color: #414651;
+     font-size: 24px;
+     margin-top: 30px;
+}
+
+#olrectagle {
+    list-style-type: none;
+    list-style-image: url(../images/Rectangle.svg);
+    font-size: 16px;
+    margin-left: 30px;
+}
+
+li{
+    padding-bottom: 8px;
+}
+
+#stringimg {
+    margin-top: 30px;
+    max-width: 100%;
+}
